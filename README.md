@@ -8,4 +8,4 @@
   * [Logistic Regression & Adaline](https://github.com/chriskh93/my-portfolio/tree/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Logistic%20Regression%20%26%20Adaline)
   * [Neural Networks](https://github.com/chriskh93/my-portfolio/tree/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Neural%20Networks)
   * [Reinforcement Learning](https://github.com/chriskh93/my-portfolio/tree/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Reinforcement%20Learning)
-* [Music Taste Across Decades: Spotify Audio Feature Analysis of 33,354 Musical Pieces] (https://github.com/chriskh93/my-portfolio/tree/main/Music%20Taste%20Across%20Decades)
+* [Music Taste Across Decades: Spotify Audio Feature Analysis of 33,354 Musical Pieces](https://github.com/chriskh93/my-portfolio/tree/main/Music%20Taste%20Across%20Decades)
