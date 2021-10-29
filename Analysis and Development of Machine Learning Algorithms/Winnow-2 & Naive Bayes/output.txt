@@ -1,0 +1,591 @@
+Winnow-2 Algorithm for Dataset 1: Breast Cancer
+Accuracy: 65.87%
+Results of 1 Fold: 
+     Predicted  Actual
+0            2       2
+1            2       4
+2            2       4
+3            2       2
+4            2       2
+..         ...     ...
+121          2       2
+122          2       2
+123          2       2
+124          2       4
+125          2       4
+
+[126 rows x 2 columns]
+View variable df_d1_w2c for full result
+
+Naive Bayes Algorithm for Dataset 1: Breast Cancer
+Accuracy: 94.44%
+Results of 1 Fold: 
+     Predicted  Actual
+0            2       2
+1            2       2
+2            4       4
+3            4       4
+4            2       2
+..         ...     ...
+121          4       4
+122          4       4
+123          2       4
+124          2       2
+125          2       2
+
+[126 rows x 2 columns]
+View variable df_d1_nbc for full result
+
+Winnow-2 Algorithm for Dataset 2: Glass: Type 1
+Accuracy: 65.79%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       0
+2           0       1
+3           0       1
+4           0       1
+5           0       0
+6           0       0
+7           0       0
+8           0       0
+9           0       0
+10          0       1
+11          0       0
+12          0       0
+13          0       0
+14          0       1
+15          0       0
+16          0       0
+17          0       0
+18          0       0
+19          0       0
+20          0       1
+21          0       0
+22          0       0
+23          0       1
+24          0       0
+25          0       1
+26          0       0
+27          0       0
+28          0       1
+29          0       0
+30          0       1
+31          0       0
+32          0       1
+33          0       1
+34          0       0
+35          0       0
+36          0       0
+37          0       1
+View variable df_d2_w2c_1 for full result
+
+Winnow-2 Algorithm for Dataset 2: Glass: Type 2
+Accuracy: 60.53%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       0
+2           0       0
+3           0       1
+4           0       0
+5           0       0
+6           0       0
+7           0       0
+8           0       0
+9           0       0
+10          0       0
+11          0       0
+12          0       0
+13          0       1
+14          0       0
+15          0       1
+16          0       1
+17          0       0
+18          0       1
+19          0       0
+20          0       0
+21          0       0
+22          0       0
+23          0       0
+24          0       0
+25          0       0
+26          0       1
+27          0       1
+28          0       1
+29          0       1
+30          0       0
+31          0       1
+32          0       0
+33          0       1
+34          0       1
+35          0       1
+36          0       1
+37          0       1
+View variable df_d2_w2c_2 for full result
+
+Winnow-2 Algorithm for Dataset 2: Glass: Type 3
+Accuracy: 81.58%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       1
+2           0       0
+3           0       0
+4           0       0
+5           0       0
+6           0       0
+7           0       0
+8           0       0
+9           0       0
+10          0       0
+11          0       0
+12          0       0
+13          0       0
+14          0       1
+15          0       0
+16          0       0
+17          0       0
+18          0       0
+19          0       0
+20          0       0
+21          0       0
+22          0       0
+23          0       0
+24          0       0
+25          0       0
+26          0       1
+27          0       0
+28          0       1
+29          0       0
+30          0       1
+31          0       1
+32          0       0
+33          0       0
+34          0       0
+35          0       0
+36          0       0
+37          0       1
+View variable df_d2_w2c_3 for full result
+
+Winnow-2 Algorithm for Dataset 2: Glass: Type 5
+Accuracy: 97.37%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       0
+2           0       0
+3           0       0
+4           0       0
+5           0       0
+6           0       0
+7           0       0
+8           0       0
+9           0       0
+10          0       0
+11          0       0
+12          0       0
+13          0       0
+14          0       0
+15          0       0
+16          0       0
+17          0       0
+18          0       0
+19          0       0
+20          0       0
+21          0       0
+22          0       0
+23          0       0
+24          0       0
+25          0       0
+26          0       0
+27          0       0
+28          0       0
+29          0       0
+30          0       0
+31          0       0
+32          0       1
+33          0       0
+34          0       0
+35          0       0
+36          0       0
+37          0       0
+View variable df_d2_w2c_5 for full result
+
+Winnow-2 Algorithm for Dataset 2: Glass: Type 6
+Accuracy: 84.21%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       1
+2           0       0
+3           0       1
+4           0       0
+5           0       0
+6           0       0
+7           0       1
+8           0       0
+9           0       0
+10          0       0
+11          0       0
+12          0       0
+13          0       0
+14          0       0
+15          0       0
+16          0       0
+17          0       0
+18          0       0
+19          0       0
+20          0       0
+21          0       0
+22          0       0
+23          0       0
+24          0       0
+25          0       0
+26          0       0
+27          0       0
+28          0       0
+29          0       0
+30          0       1
+31          0       0
+32          0       0
+33          0       0
+34          0       0
+35          0       1
+36          0       0
+37          0       1
+View variable df_d2_w2c_6 for full result
+
+Winnow-2 Algorithm for Dataset 2: Glass: Type 7
+Accuracy: 86.84%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       0
+2           0       0
+3           0       1
+4           0       0
+5           0       0
+6           0       0
+7           0       0
+8           0       0
+9           0       0
+10          0       0
+11          0       0
+12          0       0
+13          0       0
+14          0       0
+15          0       0
+16          0       0
+17          0       0
+18          0       0
+19          0       0
+20          0       0
+21          0       0
+22          0       0
+23          0       0
+24          0       0
+25          0       1
+26          0       0
+27          0       1
+28          0       1
+29          0       0
+30          0       1
+31          0       0
+32          0       0
+33          0       0
+34          0       0
+35          0       0
+36          0       0
+37          0       0
+View variable df_d2_w2c_7 for full result
+
+Naive Bayes Algorithm for Dataset 2: Glass
+Accuracy: 68.42%
+Results of 1 Fold: 
+    Predicted  Actual
+0           2       2
+1           6       6
+2           2       3
+3           2       5
+4           2       2
+5           1       3
+6           1       1
+7           5       5
+8           7       5
+9           2       2
+10          2       2
+11          6       2
+12          1       1
+13          1       1
+14          1       1
+15          1       1
+16          1       1
+17          1       2
+18          2       2
+19          2       2
+20          7       7
+21          5       5
+22          5       2
+23          7       7
+24          1       1
+25          1       1
+26          7       7
+27          1       3
+28          5       5
+29          1       1
+30          2       2
+31          5       2
+32          1       1
+33          2       1
+34          2       2
+35          2       2
+36          1       3
+37          2       5
+View variable df_d2_nbc for full result
+
+Winnow-2 Algorithm for Dataset 3: Iris: Class 1
+Accuracy: 59.26%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       1
+2           0       1
+3           0       0
+4           0       1
+5           0       0
+6           0       0
+7           0       1
+8           0       0
+9           0       0
+10          0       0
+11          0       0
+12          0       1
+13          0       0
+14          0       1
+15          0       1
+16          0       0
+17          0       1
+18          0       0
+19          0       0
+20          0       1
+21          0       0
+22          0       0
+23          0       0
+24          0       1
+25          0       0
+26          0       1
+View variable df_d3_w2c_1 for full result
+
+Winnow-2 Algorithm for Dataset 3: Iris: Class 2
+Accuracy: 66.67%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       1
+1           0       0
+2           0       0
+3           0       0
+4           0       1
+5           0       1
+6           0       0
+7           0       0
+8           0       0
+9           0       0
+10          0       0
+11          0       1
+12          0       0
+13          0       1
+14          0       0
+15          0       0
+16          0       0
+17          0       0
+18          0       1
+19          0       0
+20          0       1
+21          0       1
+22          0       0
+23          0       1
+24          0       0
+25          0       0
+26          0       0
+View variable df_d3_w2c_2 for full result
+
+Winnow-2 Algorithm for Dataset 3: Iris: Class 3
+Accuracy: 66.67%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       0
+1           0       1
+2           0       1
+3           0       0
+4           0       0
+5           0       0
+6           0       1
+7           0       0
+8           0       0
+9           0       1
+10          0       0
+11          0       0
+12          0       1
+13          0       0
+14          0       1
+15          0       0
+16          0       0
+17          0       1
+18          0       0
+19          0       1
+20          0       0
+21          0       0
+22          0       0
+23          0       0
+24          0       1
+25          0       0
+26          0       0
+View variable df_d3_w2c_3 for full result
+
+Naive Bayes Algorithm for Dataset 3: Iris
+Accuracy: 59.26%
+Results of 1 Fold: 
+          Predicted           Actual
+0   Iris-versicolor   Iris-virginica
+1    Iris-virginica  Iris-versicolor
+2       Iris-setosa      Iris-setosa
+3    Iris-virginica   Iris-virginica
+4       Iris-setosa      Iris-setosa
+5    Iris-virginica  Iris-versicolor
+6       Iris-setosa      Iris-setosa
+7    Iris-virginica   Iris-virginica
+8    Iris-virginica   Iris-virginica
+9       Iris-setosa      Iris-setosa
+10      Iris-setosa      Iris-setosa
+11   Iris-virginica  Iris-versicolor
+12  Iris-versicolor   Iris-virginica
+13  Iris-versicolor   Iris-virginica
+14   Iris-virginica  Iris-versicolor
+15   Iris-virginica   Iris-virginica
+16   Iris-virginica   Iris-virginica
+17   Iris-virginica  Iris-versicolor
+18  Iris-versicolor   Iris-virginica
+19      Iris-setosa      Iris-setosa
+20      Iris-setosa      Iris-setosa
+21   Iris-virginica   Iris-virginica
+22   Iris-virginica  Iris-versicolor
+23   Iris-virginica  Iris-versicolor
+24  Iris-versicolor  Iris-versicolor
+25      Iris-setosa      Iris-setosa
+26  Iris-versicolor  Iris-versicolor
+View variable df_d3_nbc for full result
+
+Winnow-2 Algorithm for Dataset 4: Soybean: Type D1
+Accuracy: 87.5%
+Results of 1 Fold: 
+   Predicted  Actual
+0          0       0
+1          0       0
+2          0       1
+3          0       0
+4          0       0
+5          0       0
+6          0       0
+7          0       0
+View variable df_d4_w2c_1 for full result
+
+Winnow-2 Algorithm for Dataset 4: Soybean: Type D2
+Accuracy: 25.0%
+Results of 1 Fold: 
+   Predicted  Actual
+0          1       0
+1          0       0
+2          1       0
+3          0       0
+4          1       0
+5          0       1
+6          0       1
+7          1       0
+View variable df_d4_w2c_2 for full result
+
+Winnow-2 Algorithm for Dataset 4: Soybean: Type D3
+Accuracy: 100.0%
+Results of 1 Fold: 
+   Predicted  Actual
+0          0       0
+1          0       0
+2          0       0
+3          0       0
+4          0       0
+5          0       0
+6          0       0
+7          0       0
+View variable df_d4_w2c_3 for full result
+
+Winnow-2 Algorithm for Dataset 4: Soybean: Type D4
+Accuracy: 100.0%
+Results of 1 Fold: 
+   Predicted  Actual
+0          1       1
+1          0       0
+2          0       0
+3          0       0
+4          0       0
+5          0       0
+6          1       1
+7          1       1
+View variable df_d4_w2c_4 for full result
+
+Naive Bayes Algorithm for Dataset 4: Soybean
+Accuracy: 100.0%
+Results of 1 Fold: 
+  Predicted Actual
+0        D2     D2
+1        D3     D3
+2        D2     D2
+3        D4     D4
+4        D2     D2
+5        D1     D1
+6        D1     D1
+7        D1     D1
+View variable df_d4_nbc for full result
+
+Winnow-2 Algorithm for Dataset 5: Vote
+Accuracy: 29.49%
+Results of 1 Fold: 
+    Predicted  Actual
+0           0       1
+1           0       1
+2           0       1
+3           0       0
+4           0       1
+..        ...     ...
+73          0       0
+74          0       0
+75          0       0
+76          0       1
+77          0       1
+
+[78 rows x 2 columns]
+View variable df_d5_w2c for full result
+
+Naive Bayes Algorithm for Dataset 5: Vote
+Accuracy: 85.9%
+Results of 1 Fold: 
+    Predicted  Actual
+0           1       1
+1           1       1
+2           0       1
+3           0       0
+4           0       1
+..        ...     ...
+73          1       1
+74          1       1
+75          0       1
+76          1       1
+77          1       1
+
+[78 rows x 2 columns]
+View variable df_d5_nbc for full result
+
+    Algorithm  D1: Breast Cancer  ...  D4: Soybean   D5: Vote
+0    Winnow-2          65.873016  ...       21.875  29.487179
+1  Naive Bays          94.444444  ...      100.000  85.897436
+
+[2 rows x 19 columns]
