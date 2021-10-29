@@ -1,0 +1,359 @@
+L-track Experiments:
+
+Experiment 1:
+Value Iteration
+Gamma: 0.1
+Error Threshold: 1e-3
+Allowable Time in minutes: 8.0
+Number of Iterations: 3
+Error: 0.006400000000000003
+Elapsed Training Time in minutes: 13.583327515920002
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 2:
+Value Iteration
+Gamma: 0.5
+Error Threshold: 1e-3
+Allowable Time in minutes: 8.0
+Number of Iterations: 3
+Error: 0.16000000000000014
+Elapsed Training Time in minutes: 13.661932146549224
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 3:
+Value Iteration
+Gamma: 0.9
+Error Threshold: 1e-3
+Allowable Time in minutes: 8.0
+Number of Iterations: 3
+Error: 0.5184000000000003
+Elapsed Training Time in minutes: 13.670853364467622
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 4:
+Q-Learning
+Gamma: 0.1
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Total Number of Iterations Starting from Starting Line: 602
+Elapsed Training Time in minutes: 7.1
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 5:
+Q-Learning
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Total Number of Iterations Starting from Starting Line: 3061
+Elapsed Training Time in minutes: 10.3
+Number of Steps Car Needs to Finish Race: 19
+
+Experiment 6:
+Q-Learning
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Total Number of Iterations Starting from Starting Line: 5984
+Elapsed Training Time in minutes: 12.1
+Number of Steps Car Needs to Finish Race: 40
+
+Experiment 7:
+Q-Learning
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Total Number of Iterations Starting from Starting Line: 5949
+Elapsed Training Time in minutes: 12.1
+Number of Steps Car Needs to Finish Race: 15
+
+Experiment 8:
+SARSA
+Gamma: 0.1
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Average Number of Iterations Starting from Starting Line: 5024
+Elapsed Training Time in minutes: 6.555386034647624
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 9:
+SARSA
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Average Number of Iterations Starting from Starting Line: 5374
+Elapsed Training Time in minutes: 6.932189118862152
+Number of Steps Car Needs to Finish Race: 25
+
+Experiment 10:
+SARSA
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Average Number of Iterations Starting from Starting Line: 7025
+Elapsed Training Time in minutes: 8.420727054278055
+Number of Steps Car Needs to Finish Race: 17
+
+Experiment 11:
+SARSA
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 12.0
+Average Number of Iterations Starting from Starting Line: 4900
+Elapsed Training Time in minutes: 6.9239074230194095
+Number of Steps Car Needs to Finish Race: 18
+
+
+O-track Experiments:
+
+Experiment 12:
+Value Iteration
+Gamma: 0.1
+Error Threshold: 1e-3
+Allowable Time in minutes: 16.0
+Number of Iterations: 3
+Error: 0.006400000000000003
+Elapsed Training Time in minutes: 19.08562625249227
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 13:
+Value Iteration
+Gamma: 0.5
+Error Threshold: 1e-3
+Allowable Time in minutes: 16.0
+Number of Iterations: 3
+Error: 0.16000000000000014
+Elapsed Training Time in minutes: 19.083272357781727
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 14:
+Value Iteration
+Gamma: 0.9
+Error Threshold: 1e-3
+Allowable Time in minutes: 16.0
+Number of Iterations: 3
+Error: 0.5184000000000003
+Elapsed Training Time in minutes: 19.3023228764534
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 15:
+Q-Learning
+Gamma: 0.1
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Total Number of Iterations Starting from Starting Line: 458
+Elapsed Training Time in minutes: 17.4
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 16:
+Q-Learning
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Total Number of Iterations Starting from Starting Line: 2759
+Elapsed Training Time in minutes: 26.0
+Number of Steps Car Needs to Finish Race: 37
+
+Experiment 17:
+Q-Learning
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Average Number of Iterations Starting from Starting Line: 1480
+Elapsed Training Time in minutes: 31.476239116986594
+Number of Steps Car Needs to Finish Race: 55
+
+Experiment 18:
+Q-Learning
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Total Number of Iterations Starting from Starting Line: 8841
+Elapsed Training Time in minutes: 36.1
+Number of Steps Car Needs to Finish Race: 37
+
+Experiment 19:
+SARSA
+Gamma: 0.1
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Average Number of Iterations Starting from Starting Line: 3088
+Elapsed Training Time in minutes: 21.85107233126958
+Number of Steps Car Needs to Finish Race: 501
+
+Experiment 20:
+SARSA
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Average Number of Iterations Starting from Starting Line: 4291
+Elapsed Training Time in minutes: 26.4304341952006
+Number of Steps Car Needs to Finish Race: 66
+
+Experiment 21:
+SARSA
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 24.0
+Average Number of Iterations Starting from Starting Line: 3236
+Elapsed Training Time in minutes: 23.17556559642156
+Number of Steps Car Needs to Finish Race: 501
+
+R-track Experiments without Restart:
+
+Experiment 22:
+Value Iteration
+Gamma: 0.1
+Error Threshold: 1e-3
+Allowable Time in minutes: 12.0
+Number of Iterations: 2
+Error: 0.08000000000000007
+Elapsed Training Time in minutes: 14.319090378284454
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 23:
+Value Iteration
+Gamma: 0.5
+Error Threshold: 1e-3
+Allowable Time in minutes: 12.0
+Number of Iterations: 2
+Error: 0.4
+Elapsed Training Time in minutes: 14.310319836934408
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 24:
+Value Iteration
+Gamma: 0.9
+Error Threshold: 1e-3
+Allowable Time in minutes: 12.0
+Number of Iterations: 2
+Error: 0.7200000000000002
+Elapsed Training Time in minutes: 14.4637438138326
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 25:
+Q-Learning
+Gamma: 0.1
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Total Number of Iterations Starting from Starting Line: 85
+Elapsed Training Time in minutes: 19.0
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 26:
+Q-Learning
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Total Number of Iterations Starting from Starting Line: 63
+Elapsed Training Time in minutes: 19.1
+Number of Steps Car Needs to Finish Race: 261
+
+Experiment 27:
+Q-Learning
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Total Number of Iterations Starting from Starting Line: 93
+Elapsed Training Time in minutes: 18.5
+Number of Steps Car Needs to Finish Race: 120
+
+Experiment 28:
+Q-Learning
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Total Number of Iterations Starting from Starting Line: 60
+Elapsed Training Time in minutes: 18.7
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 29:
+SARSA
+Gamma: 0.1
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Average Number of Iterations Starting from Starting Line: 91
+Elapsed Training Time in minutes: 19.601430559158324
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 30:
+SARSA
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Average Number of Iterations Starting from Starting Line: 65
+Elapsed Training Time in minutes: 18.28516317208608
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 31:
+SARSA
+Gamma: 0.5
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Average Number of Iterations Starting from Starting Line: 86
+Elapsed Training Time in minutes: 19.994041550159455
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 32:
+SARSA
+Gamma: 0.9
+n: 1
+Error Threshold: 1e-2
+Allowable Time in minutes: 18.0
+Average Number of Iterations Starting from Starting Line: 66
+Elapsed Training Time in minutes: 19.317971523602804
+Number of Steps Car Needs to Finish Race: -1
+
+R-track Experiments with Restart:
+
+Experiment 33:
+Value Iteration
+Gamma: 0.1
+Error Threshold: 1e-3
+Allowable Time in minutes: 12.0
+Number of Iterations: 2
+Error: 0.08000000000000007
+Elapsed Training Time in minutes: 14.709212573369344
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 34:
+Value Iteration
+Gamma: 0.5
+Error Threshold: 1e-3
+Allowable Time in minutes: 12.0
+Number of Iterations: 2
+Error: 0.4
+Elapsed Training Time in minutes: 13.91850254535675
+Number of Steps Car Needs to Finish Race: -1
+
+Experiment 35:
+Value Iteration
+Gamma: 0.9
+Error Threshold: 1e-3
+Allowable Time in minutes: 12.0
+Number of Iterations: 2
+Error: 0.7200000000000002
+Elapsed Training Time in minutes: 13.60003057718277
+Number of Steps Car Needs to Finish Race: -1
+
