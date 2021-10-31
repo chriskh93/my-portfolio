@@ -1,5 +1,7 @@
 ## Winnow-2 & Naive Bayes
 
+This project develops and asseses the performance of the Winnow-2 and Naive Bayes algorithms. 
+
 The contents of this project are as follows:
 * [ElKhouriAssignment1.pdf](https://github.com/chriskh93/my-portfolio/blob/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Winnow-2%20%26%20Naive%20Bayes/ElKhouriAssignment1.pdf): The report of the project
 * [ElKhouriAssignment1.py](https://github.com/chriskh93/my-portfolio/blob/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Winnow-2%20%26%20Naive%20Bayes/ElKhouriAssignment1.py): The main python code that runs and assesses our algorithms
