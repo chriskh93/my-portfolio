@@ -1,0 +1,406 @@
+Type,Brand,Category,Fit,Size,Found,Size_type
+Tops,Ralph Lauren,Casual Shirts,Slim,,,Categorical
+Tops,Ralph Lauren,Casual Shirts,Regular,,,Categorical
+Tops,Ralph Lauren,Polos,Slim,,,Categorical
+Tops,Ralph Lauren,Polos,Regular,,,Categorical
+Tops,Ralph Lauren,T-Shirt,Slim,,,Categorical
+Tops,Ralph Lauren,T-Shirt,Regular,,,Categorical
+Tops,Ralph Lauren,Vest,Regular,,,Categorical
+Tops,Ralph Lauren,Formal Shirts,Slim,,,Numeric
+Tops,Ralph Lauren,Formal Shirts,Regular,,,Numeric
+Tops,Ralph Lauren,Sweaters,Slim,,,Categorical
+Tops,Ralph Lauren,Sweaters,Regular,,,Categorical
+Tops,Ralph Lauren,Knitwear,Regular,,,Categorical
+Tops,Ralph Lauren,Hoodies,Slim,,,Categorical
+Tops,Reiss,T-Shirt,Regular,,,Categorical
+Tops,Reiss,T-Shirt,Slim,,,Categorical
+Tops,Reiss,T-Shirt,None,,,Categorical
+Tops,Reiss,Polos,Regular,,,Categorical
+Tops,Reiss,Polos,Slim,,,Categorical
+Tops,Reiss,Sweaters,Slim,,,Categorical
+Tops,Reiss,Sweaters,Regular,,,Categorical
+Tops,Reiss,Casual Shirts,Slim,,,Categorical
+Tops,Reiss,Casual Shirts,Regular,,,Categorical
+Tops,Reiss,Casual Outerwear,Slim,,,Categorical
+Tops,Reiss,Blazer,Slim,,,Numeric
+Tops,Reiss,Blazer,Regular,,,Numeric
+Tops,Reiss,Blazer,None,,,Numeric
+Tops,Reiss,Knitwear,Slim,,,Categorical
+Tops,Reiss,Knitwear,None,,,Categorical
+Tops,Reiss,Knitwear,Regular,,,Categorical
+Tops,Reiss,Formal Shirts,Slim,,,Categorical
+Tops,Reiss,Formal Shirts,Regular,,,Categorical
+Tops,Reiss,Vest,None,,,Numeric
+Tops,Reiss,Vest,Slim,,,Numeric
+Tops,Reiss,Coats,Regular,,,Categorical
+Tops,Money,T-Shirt,None,,,Categorical
+Tops,Money,Hoodies,None,,,Categorical
+Tops,Money,Polos,Regular,,,Categorical
+Tops,Scott Blue,Polos,Slim,,,Categorical
+Tops,Scott Blue,T-Shirt,Slim,,,Categorical
+Tops,Scott Blue,Casual Shirts,Slim,,,Categorical
+Tops,West LA,T-Shirt,Slim,,,Categorical
+Tops,West LA,T-Shirt,Regular,,,Categorical
+Tops,West LA,Casual Shirts,Slim,,,Categorical
+Tops,Scotch & Soda,T-Shirt,Slim,,,Categorical
+Tops,Scotch & Soda,T-Shirt,Regular,,,Categorical
+Tops,Scotch & Soda,T-Shirt,Straight,,,Categorical
+Tops,Scotch & Soda,T-Shirt,None,,,Categorical
+Tops,Scotch & Soda,Polos,None,,,Categorical
+Tops,Scotch & Soda,Polos,Regular,,,Categorical
+Tops,Scotch & Soda,Casual Outerwear,None,,,Categorical
+Tops,Scotch & Soda,Casual Outerwear,Regular,,,Categorical
+Tops,Scotch & Soda,Casual Outerwear,Slim,,,Categorical
+Tops,Scotch & Soda,Vest,Slim,,,Categorical
+Tops,Scotch & Soda,Casual Shirts,Slim,,,Categorical
+Tops,Scotch & Soda,Casual Shirts,Regular,,,Categorical
+Tops,Scotch & Soda,Casual Shirts,Comfort,,,Categorical
+Tops,Scotch & Soda,Knitwear,Regular,,,Categorical
+Tops,Scotch & Soda,Knitwear,Slim,,,Categorical
+Tops,Scotch & Soda,Sweaters,Slim,,,Categorical
+Tops,Scotch & Soda,Sweaters,Regular,,,Categorical
+Tops,Scotch & Soda,Blazer,Slim,,,Categorical
+Tops,Scotch & Soda,Blazer,Regular,,,Categorical
+Tops,Scotch & Soda,Formal Shirts,Slim,,,Categorical
+Tops,Scotch & Soda,Formal Shirts,Regular,,,Categorical
+Tops,Scotch & Soda,Hoodies,Slim,,,Categorical
+Tops,Scotch & Soda,Hoodies,Regular,,,Categorical
+Tops,Scotch & Soda,Sweatshirts,None,,,Categorical
+Tops,Scotch & Soda,Sweatshirts,Regular,,,Categorical
+Tops,Sobe,Casual Shirts,Slim,,,Categorical
+Tops,Sobe,Polos,Slim,,,Categorical
+Tops,Calvin Klein,T-Shirt,None,,,Categorical
+Tops,Calvin Klein,T-Shirt,Regular,,,Categorical
+Tops,Calvin Klein,T-Shirt,Slim,,,Categorical
+Tops,Calvin Klein,Polos,Comfort,,,Categorical
+Tops,Calvin Klein,Polos,None,,,Categorical
+Tops,Calvin Klein,Casual Shirts,Regular,,,Categorical
+Tops,Calvin Klein,Casual Shirts,Slim,,,Categorical
+Tops,Calvin Klein,Hoodies,None,,,Categorical
+Tops,Moss Bros,Formal Shirts,Slim,,,Numeric
+Tops,Moss Bros,Formal Shirts,Regular,,,Numeric
+Tops,Moss Bros,Blazer,Slim,,,Numeric
+Tops,Moss Bros,Casual Shirts,Slim,,,Categorical
+Tops,Cavanni,Casual Shirts,Slim,,,Numeric
+Tops,Cavanni,Blazer,Slim,,,Numeric
+Tops,Cavanni,Blazer,Regular,,,Numeric
+Tops,Cavanni,Formal Shirts,Slim,,,Numeric
+Tops,Cavanni,Formal Shirts,Regular,,,Categorical
+Tops,Cavanni,Formal Shirts,None,,,Categorical
+Tops,Skiny,T-Shirt,None,,,Categorical
+Tops,Skiny,T-Shirt,Regular,,,Categorical
+Tops,Skiny,T-Shirt,Slim,,,Categorical
+Tops,Claudio Sartore,Blazer,Slim,,,Numeric
+Tops,Claudio Sartore,Blazer,None,,,Numeric
+Tops,Claudio Sartore,Blazer,Regular,,,Numeric
+Tops,Claudio Sartore,Formal Shirts,None,,,Numeric
+Tops,Claudio Sartore,Formal Shirts,Slim,,,Categorical
+Tops,Claudio Sartore,T-Shirt,None,,,Categorical
+Tops,Claudio Sartore,Polos,None,,,Categorical
+Tops,Claudio Sartore,Polos,Regular,,,Categorical
+Tops,Claudio Sartore,Casual Outerwear,None,,,Numeric
+Tops,Fred Perry,T-Shirt,Slim,,,Categorical
+Tops,Fred Perry,T-Shirt,Regular,,,Categorical
+Tops,Fred Perry,Casual Shirts,Slim,,,Categorical
+Tops,Fred Perry,Casual Shirts,Regular,,,Categorical
+Tops,Fred Perry,Polos,Regular,,,Categorical
+Tops,Fred Perry,Polos,Slim,,,Categorical
+Tops,Fred Perry,Casual Outerwear,Slim,,,Categorical
+Tops,Fred Perry,Sweaters,Slim,,,Categorical
+Tops,AMI,Casual Shirts,Regular,,,Numeric
+Tops,AMI,Casual Shirts,Slim,,,Numeric
+Tops,AMI,Polos,Regular,,,Categorical
+Tops,AMI,Sweatshirts,Regular,,,Categorical
+Tops,AMI,T-Shirt,Regular,,,Categorical
+Tops,AMI,Hoodies,Slim,,,Categorical
+Tops,Sacoor,Sweaters,Slim,,,Categorical
+Tops,Sacoor,Sweaters,Regular,,,Categorical
+Tops,Sacoor,Casual Outerwear,Slim,,,Categorical
+Tops,Sacoor,Casual Outerwear,Regular,,,Categorical
+Tops,Sacoor,Formal Shirts,Slim,,,Numeric
+Tops,Sacoor,Formal Shirts,Regular,,,Numeric
+Tops,Sacoor,Casual Shirts,Slim,,,Categorical
+Tops,Sacoor,Casual Shirts,Regular,,,Numeric
+Tops,Sacoor,Casual Shirts,None,,,Categorical
+Tops,Sacoor,Blazer,Slim,,,Numeric
+Tops,BLUE MINT,T-Shirt,Slim,,,Categorical
+Tops,BLUE MINT,T-Shirt,Regular,,,Categorical
+Tops,BLUE MINT,Polos,Regular,,,Categorical
+Tops,Alternative Apparel,Hoodies,Slim,,,Categorical
+Tops,Alternative Apparel,T-Shirt,Slim,,,Categorical
+Tops,Alternative Apparel,T-Shirt,Regular,,,Categorical
+Tops,Rhordan,T-Shirt,Slim,,,Categorical
+Tops,Dedicated,T-Shirt,None,,,Categorical
+Tops,Dedicated,T-Shirt,Regular,,,Categorical
+Tops,Dedicated,Hoodies,Slim,,,Categorical
+Tops,Dedicated,Casual Outerwear,Slim,,,Categorical
+Tops,Dedicated,Casual Shirts,Regular,,,Categorical
+Tops,Dedicated,Casual Shirts,None,,,0
+Tops,Dedicated,Sweatshirts,Slim,,,Categorical
+Tops,Sharq & Gharb,T-Shirt,Slim,,,Categorical
+Tops,Mr. Draper,Casual Shirts,Slim,,,Numeric
+Tops,Mr. Draper,Formal Shirts,Slim,,,Numeric
+Tops,Campione,Casual Shirts,None,,,Categorical
+Tops,Campione,Casual Shirts,Regular,,,Categorical
+Tops,Campione,Casual Shirts,Slim,,,Categorical
+Tops,Campione,Polos,None,,,Categorical
+Tops,Campione,T-Shirt,Regular,,,Categorical
+Tops,Tommy Hilfiger,T-Shirt,Regular,,,Categorical
+Tops,Tommy Hilfiger,T-Shirt,None,,,Categorical
+Tops,Tommy Hilfiger,T-Shirt,Slim,,,Categorical
+Tops,Tommy Hilfiger,T-Shirt,Comfort,,,Categorical
+Tops,Tommy Hilfiger,Casual Shirts,Slim,,,Categorical
+Tops,Tommy Hilfiger,Casual Shirts,None,,,Categorical
+Tops,Tommy Hilfiger,Casual Shirts,Regular,,,Categorical
+Tops,Tommy Hilfiger,Casual Shirts,Comfort,,,Categorical
+Tops,Tommy Hilfiger,Polos,Regular,,,Categorical
+Tops,Tommy Hilfiger,Polos,Slim,,,Categorical
+Tops,Tommy Hilfiger,Polos,None,,,Categorical
+Tops,Tommy Hilfiger,Polos,Comfort,,,Categorical
+Tops,Tommy Hilfiger,Sweatshirts,None,,,Categorical
+Tops,Tommy Hilfiger,Sweatshirts,Regular,,,Categorical
+Tops,Tommy Hilfiger,Sweatshirts,Comfort,,,Categorical
+Tops,Tommy Hilfiger,Formal Shirts,Slim,,,Numeric
+Tops,Tommy Hilfiger,Formal Shirts,Regular,,,Numeric
+Tops,Tommy Hilfiger,Blazer,Slim,,,Numeric
+Tops,Tommy Hilfiger,Sweaters,Comfort,,,Categorical
+Tops,Tommy Hilfiger,Sweaters,Regular,,,Categorical
+Tops,Tommy Hilfiger,Casual Outerwear,Slim,,,Categorical
+Tops,Tommy Hilfiger,Casual Outerwear,Regular,,,Categorical
+Tops,Strarwish,T-Shirt,Slim,,,Categorical
+Tops,Kairen,Casual Shirts,Slim,,,Numeric
+Tops,Lacoste,Polos,Slim,,,Categorical
+Tops,Lacoste,Polos,Regular,,,Categorical
+Tops,Lacoste,Formal Shirts,Slim,,,Numeric
+Tops,Lacoste,T-Shirt,Slim,,,Numeric
+Tops,Lacoste,T-Shirt,Regular,,,Numeric
+Tops,Lacoste,Knitwear,Comfort,,,Numeric
+Tops,Lacoste,Sweatshirts,Slim,,,Numeric
+Tops,Vilebrequin,T-Shirt,Slim,,,Categorical
+Tops,Vilebrequin,Polos,Regular,,,Categorical
+Tops,Vilebrequin,Casual Shirts,Slim,,,Categorical
+Tops,Intense,Sweatshirts,None,,,Categorical
+Tops,Emporio Armani,T-Shirt,Straight,,,Categorical
+Tops,Emporio Armani,T-Shirt,Slim,,,Categorical
+Tops,Timothy Everest,Knitwear,None,,,Categorical
+Tops,Guards London,Coats,Tailored,,,Numeric
+Tops,Guards London,Blazer,Regular,,,Numeric
+Tops,Guards London,Casual Outerwear,Tailored,,,Numeric
+Tops,Harris Wharf,Blazer,Tailored,,,Numeric
+Tops,Drake's,Formal Shirts,Slim,,,Numeric
+Tops,Hilditch & Key,Formal Shirts,Regular,,,Numeric
+Tops,Hilditch & Key,Formal Shirts,None,,,Numeric
+Tops,Emmett,Formal Shirts,Slim,,,Numeric
+Tops,Emmett,Formal Shirts,Regular,,,Numeric
+Tops,Emmett,Formal Shirts,None,,,Numeric
+Tops,Mocha Salt,T-Shirt,Regular,,,Categorical
+Tops,Emma Willis,Formal Shirts,Slim,,,Numeric
+Tops,Emma Willis,Formal Shirts,None,,,Numeric
+Tops,Emma Willis,Casual Shirts,Regular,,,Numeric
+Tops,Hackett,Polos,Slim,,,Categorical
+Tops,Hackett,Casual Shirts,Slim,,,Categorical
+Tops,Hackett,Casual Shirts,Regular,,,Categorical
+Tops,Hackett,Blazer,Regular,,,Numeric
+Tops,Hackett,Blazer,Slim,,,Numeric
+Tops,Hackett,Formal Shirts,Slim,,,Categorical
+Tops,Hackett,Formal Shirts,Regular,,,Categorical
+Tops,Dead Legacy,T-Shirt,Regular,,,Categorical
+Tops,EDEN PARK,T-Shirt,Slim,,,Categorical
+Tops,EDEN PARK,Casual Shirts,Slim,,,Categorical
+Tops,EDEN PARK,Polos,Slim,,,Categorical
+Tops,Diesel,Sweaters,Slim,,,Categorical
+Tops,Diesel,Sweaters,Regular,,,Categorical
+Tops,Diesel,Casual Shirts,Slim,,,Categorical
+Tops,Diesel,Casual Shirts,Regular,,,Categorical
+Tops,Diesel,T-Shirt,Slim,,,Categorical
+Tops,Diesel,Casual Outerwear,Slim,,,Categorical
+Tops,Diesel,Polos,Slim,,,Categorical
+Tops,Diesel,Knitwear,Slim,,,Categorical
+Tops,Diesel,Hoodies,Slim,,,Categorical
+Tops,MONSIEUR FOX,Polos,Slim,,,Categorical
+Tops,Van Gils,Casual Shirts,Regular,,,Numeric
+Tops,Van Gils,Casual Shirts,Slim,,,Numeric
+Tops,Van Gils,Blazer,Slim,,,Numeric
+Tops,Van Gils,Polos,Slim,,,Categorical
+Tops,Van Gils,Sweaters,Slim,,,Categorical
+Tops,Van Gils,Vest,Slim,,,Categorical
+Tops,Carter & White,T-Shirt,Slim,,,Categorical
+Tops,Mexx,Sweaters,Slim,,,Categorical
+Tops,Mexx,Blazer,Slim,,,Numeric
+Tops,Mexx,Formal Shirts,Slim,,,Numeric
+Tops,Mexx,T-Shirt,Slim,,,Categorical
+Tops,Mexx,Casual Shirts,Slim,,,Categorical
+Tops,AG Jeans,T-Shirt,Slim,,,Categorical
+Tops,AG Jeans,T-Shirt,Regular,,,Categorical
+Tops,AG Jeans,Casual Shirts,Slim,,,Categorical
+Tops,AG Jeans,Polos,Regular,,,Categorical
+Tops,ATELIER PRIVE,Casual Shirts,Slim,,,Categorical
+Tops,ATELIER PRIVE,Casual Shirts,Regular,,,Categorical
+Tops,ATELIER PRIVE,Formal Shirts,Regular,,,Categorical
+Tops,ATELIER PRIVE,Formal Shirts,Slim,,,Categorical
+Tops,ATELIER PRIVE,Formal Shirts,Comfort,,,Categorical
+Tops,ATELIER PRIVE,Sweaters,Slim,,,Categorical
+Tops,ATELIER PRIVE,Blazer,Slim,,,Numeric
+Tops,SuitSupply,Blazer,Slim,,,Numeric
+Tops,SuitSupply,Formal Shirts,Slim,,,Numeric
+Tops,SuitSupply,Vest,Slim,,,Numeric
+Tops,SuitSupply,Sweaters,Slim,,,Categorical
+Tops,SuitSupply,Casual Shirts,Slim,,,Numeric
+Tops,SuitSupply,Knitwear,Slim,,,Categorical
+Tops,SuitSupply,Coats,Slim,,,Categorical
+Tops,Damat,Formal Shirts,Slim,,,Categorical
+Tops,Damat,Formal Shirts,Comfort,,,Categorical
+Tops,Damat,Casual Shirts,Slim,,,Categorical
+Tops,Damat,Casual Shirts,Regular,,,Categorical
+Tops,Damat,Blazer,Slim,,,Numeric
+Tops,Cordone,Casual Shirts,Slim,,,Numeric
+Tops,Cordone,Casual Shirts,Regular,,,Categorical
+Tops,Cordone,Formal Shirts,Slim,,,Numeric
+Tops,one 90 One,Casual Shirts,Regular,,,Categorical
+Tops,one 90 One,Casual Shirts,Comfort,,,Categorical
+Tops,one 90 One,Casual Shirts,Slim,,,Categorical
+Tops,one 90 One,T-Shirt,Slim,,,Categorical
+Tops,one 90 One,T-Shirt,Regular,,,Categorical
+Tops,one 90 One,Knitwear,Slim,,,Categorical
+Tops,one 90 One,Sweatshirts,Slim,,,Categorical
+Tops,Japan Rags,Casual Shirts,Slim,,,Categorical
+Tops,Japan Rags,Blazer,Slim,,,Categorical
+Tops,Japan Rags,T-Shirt,Slim,,,Categorical
+Tops,Japan Rags,T-Shirt,Regular,,,Categorical
+Tops,Van Heusen,Casual Shirts,Slim,,,Categorical
+Tops,Van Heusen,Casual Shirts,Comfort,,,Categorical
+Tops,Van Heusen,Casual Outerwear,Slim,,,Categorical
+Tops,Van Heusen,Polos,Slim,,,Categorical
+Tops,LE COQ SPORTIF,T-Shirt,Regular,,,Categorical
+Tops,Valentino,Polos,Regular,,,Categorical
+Tops,Gym Clothes Company,T-Shirt,Slim,,,Categorical
+Bottoms,Ralph Lauren,Chinos,Slim,,,Numeric
+Bottoms,Ralph Lauren,Chinos,Regular,,,Numeric
+Bottoms,Ralph Lauren,Shorts,Comfort,,,Categorical
+Bottoms,Ralph Lauren,Shorts,Regular,,,Numeric
+Bottoms,Vilebrequin,Swim,Regular,,,Categorical
+Bottoms,Reiss,Chinos,Slim,,,Numeric
+Bottoms,Reiss,Formal Trousers,Slim,,,Numeric
+Bottoms,Reiss,Formal Trousers,None,,,Numeric
+Bottoms,Reiss,Formal Trousers,Regular,,,Numeric
+Bottoms,Reiss,Swim,Regular,,,Categorical
+Bottoms,Reiss,Shorts,Regular,,,Numeric
+Bottoms,Reiss,Shorts,Slim,,,Numeric
+Bottoms,Campione,Chinos,None,,,Numeric
+Bottoms,Campione,Chinos,Slim,,,Numeric
+Bottoms,Campione,Jeans,None,,,Numeric
+Bottoms,FREDS,Swim,None,,,Categorical
+Bottoms,FREDS,Swim,Regular,,,Categorical
+Bottoms,Hackett,Chinos,Slim,,,Numeric
+Bottoms,Hackett,Chinos,Regular,,,Numeric
+Bottoms,Hackett,Shorts,Slim,,,Numeric
+Bottoms,Hackett,Shorts,Regular,,,Numeric
+Bottoms,Hackett,Jeans,Slim,,,Numeric
+Bottoms,Hackett,Casual Trousers,Slim,,,Numeric
+Bottoms,Claudio Sartore,Formal Trousers,None,,,Numeric
+Bottoms,Claudio Sartore,Chinos,Slim,,,Numeric
+Bottoms,Claudio Sartore,Chinos,None,,,Numeric
+Bottoms,Cavanni,Jeans,Slim,,,Numeric
+Bottoms,Cavanni,Jeans,Skinny,,,Numeric
+Bottoms,Money,Sweatpants,Slim,,,Categorical
+Bottoms,Money,Sweatpants,Regular,,,Categorical
+Bottoms,AMI,Jeans,Slim,,,Numeric
+Bottoms,AMI,Chinos,Regular,,,Categorical
+Bottoms,AMI,Chinos,Slim,,,Numeric
+Bottoms,AMI,Chinos,Carrot,,,Numeric
+Bottoms,Scotch & Soda,Chinos,Slim,,,Numeric
+Bottoms,Scotch & Soda,Chinos,Super skinny,,,Numeric
+Bottoms,Scotch & Soda,Chinos,Regular,,,Numeric
+Bottoms,Scotch & Soda,Chinos,Skinny,,,Numeric
+Bottoms,Scotch & Soda,Shorts,Slim,,,Numeric
+Bottoms,Scotch & Soda,Shorts,Comfort,,,Numeric
+Bottoms,Scotch & Soda,Shorts,Regular,,,Numeric
+Bottoms,Scotch & Soda,Jeans,Slim,,,Numeric
+Bottoms,Scotch & Soda,Jeans,Regular,,,Numeric
+Bottoms,Scotch & Soda,Jeans,Skinny,,,Numeric
+Bottoms,Scotch & Soda,Jeans,None,,,Numeric
+Bottoms,Scotch & Soda,Formal Trousers,Slim,,,Numeric
+Bottoms,Scotch & Soda,Swim,Regular,,,Categorical
+Bottoms,Dedicated,Shorts,None,,,Numeric
+Bottoms,Dedicated,Chinos,None,,,Numeric
+Bottoms,Dedicated,Chinos,Regular,,,Numeric
+Bottoms,Dedicated,Sweatpants,Regular,,,Categorical
+Bottoms,Kairen,Swim,Slim,,,Categorical
+Bottoms,Kairen,Swim,None,,,Categorical
+Bottoms,Tommy Hilfiger,Chinos,Straight,,,Numeric
+Bottoms,Tommy Hilfiger,Chinos,None,,,Numeric
+Bottoms,Tommy Hilfiger,Chinos,Regular,,,Numeric
+Bottoms,Tommy Hilfiger,Chinos,Slim,,,Numeric
+Bottoms,Tommy Hilfiger,Chinos,Skinny,,,Numeric
+Bottoms,Tommy Hilfiger,Jeans,Slim,,,Numeric
+Bottoms,Tommy Hilfiger,Jeans,Straight,,,Numeric
+Bottoms,Tommy Hilfiger,Jeans,Skinny,,,Numeric
+Bottoms,Tommy Hilfiger,Jeans,Regular,,,Numeric
+Bottoms,Tommy Hilfiger,Shorts,Straight,,,Numeric
+Bottoms,Tommy Hilfiger,Shorts,Comfort,,,Numeric
+Bottoms,Tommy Hilfiger,Shorts,Regular,,,Numeric
+Bottoms,Tommy Hilfiger,Shorts,Slim,,,Numeric
+Bottoms,Tommy Hilfiger,Sweatpants,Slim,,,Numeric
+Bottoms,Tommy Hilfiger,Casual Trousers,Straight,,,Numeric
+Bottoms,Tommy Hilfiger,Swim,Regular,,,Categorical
+Bottoms,Tommy Hilfiger,Formal Trousers,Straight,,,Numeric
+Bottoms,Strarwish,Swim,Slim,,,Numeric
+Bottoms,Strarwish,Swim,Regular,,,Numeric
+Bottoms,Damat,Chinos,Slim,,,Numeric
+Bottoms,Damat,Formal Trousers,Slim,,,Numeric
+Bottoms,Damat,Swim,Slim,,,Categorical
+Bottoms,Damat,Swim,Regular,,,Categorical
+Bottoms,Ayah,Swim,Slim,,,Categorical
+Bottoms,Intense,Sweatpants,None,,,Categorical
+Bottoms,Mocha Salt,Shorts,Regular,,,Numeric
+Bottoms,Mocha Salt,Swim,Regular,,,Numeric
+Bottoms,West LA,Shorts,Slim,,,Numeric
+Bottoms,West LA,Chinos,Slim,,,Numeric
+Bottoms,West LA,Swim,Slim,,,Numeric
+Bottoms,West LA,Jeans,Slim,,,Numeric
+Bottoms,Fred Perry,Chinos,Slim,,,Numeric
+Bottoms,Van Gils,Formal Trousers,Slim,,,Numeric
+Bottoms,Van Gils,Jeans,Slim,,,Numeric
+Bottoms,Diesel,Jeans,Slim,,,Numeric
+Bottoms,Diesel,Jeans,Regular,,,Numeric
+Bottoms,Diesel,Jeans,Carrot,,,Numeric
+Bottoms,Diesel,Jeans,Skinny,,,Numeric
+Bottoms,Diesel,Jeans,Super skinny,,,Numeric
+Bottoms,Diesel,Jeans,Straight,,,Numeric
+Bottoms,Diesel,Chinos,Slim,,,Numeric
+Bottoms,Diesel,Pants,Slim,,,Numeric
+Bottoms,Diesel,Swim,Regular,,,Categorical
+Bottoms,EDEN PARK,Casual Trousers,Regular,,,Categorical
+Bottoms,EDEN PARK,Chinos,Slim,,,Numeric
+Bottoms,Sacoor,Chinos,Slim,,,Numeric
+Bottoms,Lacoste,Shorts,Regular,,,Numeric
+Bottoms,Lacoste,Jeans,Slim,,,Numeric
+Bottoms,Lacoste,Swim,Regular,,,Categorical
+Bottoms,Lacoste,Chinos,Slim,,,Numeric
+Bottoms,Lacoste,Chinos,Regular,,,Numeric
+Bottoms,Japan Rags,Jeans,Slim,,,Numeric
+Bottoms,Japan Rags,Jeans,Regular,,,Numeric
+Bottoms,Scott Blue,Shorts,Regular,,,Categorical
+Bottoms,Scott Blue,Chinos,Slim,,,Numeric
+Bottoms,Scott Blue,Jeans,Slim,,,Numeric
+Bottoms,Scott Blue,Jeans,Skinny,,,Numeric
+Bottoms,Scott Blue,Jeans,Regular,,,Numeric
+Bottoms,LE COQ SPORTIF,Sweatpants,Slim,,,Categorical
+Bottoms,one 90 One,Chinos,Regular,,,Numeric
+Bottoms,BLUE MINT,Swim,Regular,,,Categorical
+Bottoms,BLUE MINT,Swim,Slim,,,Categorical
+Bottoms,BLUE MINT,Shorts,Slim,,,Numeric
+Bottoms,AG Jeans,Jeans,Slim,,,Numeric
+Bottoms,AG Jeans,Chinos,Slim,,,Numeric
+Bottoms,Alternative Apparel,Sweatpants,Carrot,,,Categorical
+Bottoms,Alternative Apparel,Sweatpants,Slim,,,Categorical
+Bottoms,Alternative Apparel,Chinos,Slim,,,Numeric
+Bottoms,Mexx,Casual Trousers,Slim,,,Numeric
+Bottoms,Mexx,Jeans,Slim,,,Numeric
+Bottoms,Mexx,Jeans,Regular,,,Numeric
+Bottoms,ATELIER PRIVE,Chinos,Slim,,,Numeric
+Bottoms,SuitSupply,Formal Trousers,Slim,,,Numeric
+Bottoms,SuitSupply,Casual Trousers,Slim,,,Numeric
+Bottoms,Calvin Klein,Shorts,Slim,,,Numeric
+Bottoms,Calvin Klein,Jeans,Slim,,,Numeric
+Bottoms,Gym Clothes Company,Shorts,Slim,,,Categorical
