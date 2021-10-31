@@ -10,3 +10,4 @@
   * [Reinforcement Learning](https://github.com/chriskh93/my-portfolio/tree/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Reinforcement%20Learning)
 * [Music Taste Across Decades: Spotify Audio Feature Analysis of 33,354 Musical Pieces](https://github.com/chriskh93/my-portfolio/tree/main/Music%20Taste%20Across%20Decades)
 * [ETL, EDA, and Statistical Modelling of Abalone Data](https://github.com/chriskh93/my-portfolio/tree/main/ETL%2C%20EDA%20and%20Statistical%20Modeling%20of%20Abalone%20Data)
+* [Modeling MPG from Vehicle Data](https://github.com/chriskh93/my-portfolio/tree/main/MPG%20Modeling)
