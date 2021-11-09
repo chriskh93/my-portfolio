@@ -1,6 +1,0 @@
-statsmodels==0.10.1
-Flask==1.1.2
-numpy==1.17.3
-joblib==0.15.1
-pandas==1.2.3
-scikit_learn==0.24.1
