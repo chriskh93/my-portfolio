@@ -6,7 +6,7 @@ For each of these assignments, the following deliverables were submitted:
 * The source code(s)
 * A report describing of the results of the experiments
 
-Python was my programming language of choice and we were not permittee to use any available machine learning libraries such as Matlab toolbox, WEKA, RapidMiner, scikit-learn, etc. All algorithms must be implemented from scratch, and basic libraries for managing data structures and fundamental math operations (e.g: NumPy or Pandas) are permitted.
+Python was my programming language of choice and we were not permitted to use any available machine learning libraries such as Matlab toolbox, WEKA, RapidMiner, scikit-learn, etc. All algorithms must be implemented from scratch, and basic libraries for managing data structures and fundamental math operations (e.g: NumPy or Pandas) are permitted.
 
 The projects are as follows:
 * [Winnow-2 & Naive Bayes](https://github.com/chriskh93/my-portfolio/tree/main/Analysis%20and%20Development%20of%20Machine%20Learning%20Algorithms/Winnow-2%20%26%20Naive%20Bayes)
